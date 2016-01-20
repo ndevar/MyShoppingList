@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MyShoppingList</string>
+    <string name="title_activity_send_mail">SendMail</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_send_mail_without_intent">MyShoppingList</string>
+    <string name="fa_caret_up">&#xf0d8;</string>
+    <string name="fa_caret_down">&#xf0d7;</string>
+    <string name="fa_envelope">&#xf0e0;</string>
+    <string name="fa_list_alt">&#xf022;</string>
+    <string name="title_activity_my_shopping_splash_screen">MyShoppingSplashScreen</string>
+    <color name="text_shadow">#7F000000</color>
+    <string name="fa_shopping_cart">&#xf07a;</string>
+    <string name="fa_plus">&#xf067;</string>
+    <string name="title_activity_add_new_product">AddNewProduct</string>
+    <string name="prompt">Choose a Category</string>
+    <string name="fa_check">&#xf00c;</string>
+    <string name="fa_remove">&#xf00d;</string>
+
+    <string-array name="measurement">
+        <item>kg</item>
+        <item>lts</item>
+        <item>grams</item>
+    </string-array>
+
+    </resources>
